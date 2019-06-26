@@ -1,0 +1,23 @@
+{
+  "name": "pft",
+  "version": "1.0.0",
+  "description": "public finanical trade chain token",
+  "main": "truffle.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "zeppelin-solidity": "^1.4.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "pft",
+    "token",
+    "erc20"
+  ],
+  "author": "pft.io",
+  "license": "ISC"
+}
